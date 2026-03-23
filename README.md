@@ -56,7 +56,7 @@
 ## 💻 Projects
 |기간|프로젝트|역할|수상|
 |---|---|---|---|
-|2025.10 ~ 2025.11|[데이터, AI 기반 층간소음 갈등 완화 플랫폼](https://github.com/DaeyeoHaeyoung/daeyeohaeyoung)|**BE/FE** 자가 경고 알림, 찌르기를 통한 알림 기능 구현, 소음지 발생 추측 알고리즘 구현, 프론트엔드 API 연동|삼성청년 SW AI 아카데미 자율프로젝트 우수상|
+|2025.10 ~ 2025.11|[데이터, AI 기반 층간소음 갈등 완화 플랫폼](https://github.com/SoundMate-106/SoundMate)|**BE/FE** 자가 경고 알림, 찌르기를 통한 알림 기능 구현, 소음지 발생 추측 알고리즘 구현, 프론트엔드 API 연동|삼성청년 SW AI 아카데미 자율프로젝트 우수상|
 |2025.08 ~ 2025.09|[QR을 활용한 C2C대여 서비스](https://github.com/DaeyeoHaeyoung/daeyeohaeyoung)|**BE** 대여/반납 흐름 설계, S3기반 이미지 업로드 로직 개발, 전자서명/QR 발급 로직 구현|신한은행 해커톤 본선 진출|
 |2025.07 ~ 2025.08|[마니또 운영 플랫폼](https://github.com/DaeyeoHaeyoung/daeyeohaeyoung)|**BE/Infra** Jenkins CI/CD 파이프 라인 구축, Nginx 리버스 프록시 & SSL 설정, 데일리 미션 제공 로직 구현, ERD 및 DB 테이블 설계||
 |2025.05.14 ~ 2025.05.28|[부동산 정보 플랫폼 GoZip](https://github.com/Jihye511/gozip-housing-insights)|**FE/BE** 거래 매물 지도, 건물 시세 시각화(그래프), 체크리스트 기반 ai추천(Spring AI) 및 지도 연동, 부동산 정보 게시판||
